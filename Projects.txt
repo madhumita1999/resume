@@ -1,0 +1,31 @@
+Project 1 (Mini Project)
+Title : Hotel Management System.
+Description : An online hotel management system is a dynamic website used to provide
+customers with flexibility in checking hotel menus with price, information about a hotel.
+Technologies : HTML, CSS, Bootstrap .
+Learning Outcome : Front end website using HTML, CSS, Bootstrap.
+
+Project 2 (Mini Project)
+Title : Student Management System.
+Description : Online web tool to manage student information.
+Technologies : HTML, Bootstrap, jquery , SPRING BOOT, THYMELEAF, MySQL
+Learning Outcome : Web development using Spring boot.
+
+Project 3(Mini Project)
+Title : Employee Management System.
+Description : Online web tool to manage employee information.
+Technologies : HTML, Bootstrap, Jquery , SPRING BOOT, THYMELEAF, MySQL.
+Learning Outcome : Web development using Spring boot.
+
+Project 4(Mini Project)
+Title : Online Shopping Management System.
+Description : Online web tool to manage product information.
+Technologies : HTML, CSS, Bootstrap, PHP, MySQL, MySQLI
+Learning Outcome : Web Development using PHP, MySQL
+
+Project 5(Mini Project)
+Title : Design a website for a yoga center.
+Description : Website Provides online information about the yoga center online by
+using Responsive website that can be displayed across multiple devices like desktop, mobile etc..
+Technologies : HTML, CSS, Bootstrap 4, jquery.
+Learning Outcome : Responsive front end website using HTML, CSS, Bootstrap 4, jquery.
